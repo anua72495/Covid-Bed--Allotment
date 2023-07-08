@@ -1,1 +1,1 @@
-# Covid-Bed--Allotment
+# Covid-Bed-Allotment
